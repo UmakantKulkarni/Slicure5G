@@ -1,0 +1,16 @@
+[submodule "UERANSIM"]
+	path = UERANSIM
+	url = https://github.com/UmakantKulkarni/UERANSIM
+	branch = secure5g
+[submodule "open5gs"]
+	path = open5gs
+	url = https://github.com/UmakantKulkarni/open5gs
+	branch = secure5g
+[submodule "opensource-5g-core"]
+	path = opensource-5g-core
+	url = https://github.com/UmakantKulkarni/opensource-5g-core
+	branch = secure5g
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/UmakantKulkarni/scripts
+	branch = secure5g
